@@ -1,5 +1,7 @@
 # hello-world
 
+Git Hub Repo
+
 Hello World, My name is Ugochukwu Douglas-Chukwu. 
 I am very excited to work on my first gitHub project and I am motivated to learn how to use
 Git and perharps complete some amazing projects with Git. I am comfortable using C and C++
